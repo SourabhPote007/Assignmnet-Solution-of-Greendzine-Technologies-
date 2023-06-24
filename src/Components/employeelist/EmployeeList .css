@@ -1,0 +1,37 @@
+.EmployeeListContainer
+{
+    width: 100vw;
+    height: fit-content;
+    color: white;
+    padding: 0px 50px;
+}
+
+.EmployeeListContainer input
+{
+    width: 80%;
+    border: none;
+    outline: none;
+    border: 1px solid #ccc;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+}
+
+table
+{
+    margin: auto auto;
+    width: 500px;
+    cursor: pointer;
+}
+
+.Avatar
+{
+    width: 80px;
+    height: 80px;
+}
+/* table tr:nth-child(2)
+{
+    display: flex;
+} */
